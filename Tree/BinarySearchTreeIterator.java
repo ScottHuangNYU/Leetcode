@@ -20,6 +20,8 @@ public class BinarySearchTreeIterator {
             stack.push(node);
             node = node.left;
         }
+
+        // hi scott
         return min.val;
     }
 
