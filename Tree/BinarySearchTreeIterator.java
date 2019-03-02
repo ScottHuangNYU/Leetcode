@@ -25,6 +25,8 @@ public class BinarySearchTreeIterator {
         // hi daniel
         // hi all
         // hello migo
+
+        // check github
         return min.val;
     }
 
