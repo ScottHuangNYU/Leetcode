@@ -22,6 +22,7 @@ public class BinarySearchTreeIterator {
         }
 
         // hi scott
+        // hello migo
         return min.val;
     }
 
