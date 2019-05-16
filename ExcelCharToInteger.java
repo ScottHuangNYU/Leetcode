@@ -12,6 +12,6 @@ public class ExcelCharToInteger {
     }
 
     public static void main(String[] args){
-        System.out.println(titleToNumber("A"));
+        System.out.println(titleToNumber("B"));
     }
 }
